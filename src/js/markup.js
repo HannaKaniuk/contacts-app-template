@@ -5,5 +5,5 @@ export const markupContact = ({ id, name, number }) => {
       <p>Number: ${number}</p>
       <button class="delete-btn">Delete</button>
       </li>
-     `;
+    `;
 };

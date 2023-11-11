@@ -7,6 +7,7 @@
     "dev": "vite",
     "build": "vite build --base=/vite_test/",
     "preview": "vite preview"
+    
   },
   "devDependencies": {
     "glob": "^8.1.0",
